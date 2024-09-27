@@ -23,4 +23,4 @@
 
 ---
 
-⭐️ From [@Priyanshu84iya](https://github.com/thepawan2)
+⭐️ From [@thepawan2](https://github.com/thepawan2)
