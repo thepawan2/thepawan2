@@ -1,4 +1,4 @@
-<h2> Hi, I'm Priyanshu Chaurasiya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Pawan Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/fha1cv4Le2lVRXXJsc/giphy.gif?cid=ecf05e47img5vpst86pk43ey6rufm1azq9damy0l62bgt7j5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 <p><em>Android Devloper<a href="https://www.hierank.org/">Hierank Business School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.pathcreationacademy.com/">Path Creation</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
